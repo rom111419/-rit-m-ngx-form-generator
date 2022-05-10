@@ -2,5 +2,6 @@
 
 Angular form generator creates reactive form groups, form controls and form arrays from Object
 
+
     Changes log:
-      - husky added
+      - npm version patch added

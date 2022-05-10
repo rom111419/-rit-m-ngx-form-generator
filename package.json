@@ -3,7 +3,7 @@
   "description": "Angular Form-Generator - creates reactive form groups, form controls and form arrays from Object",
   "author": "Roman Zhukov",
   "license": "Apache-2.0 License",
-  "version": "0.0.242",
+  "version": "0.0.2",
   "engines": {
     "node": ">=16.13.0"
   },
@@ -14,14 +14,8 @@
   "dependencies": {
     "tslib": "^2.3.0"
   },
-  "devDependencies": {
-    "husky": "^8.0.1"
-  },
   "repository": {
     "type": "git",
     "url": "https://github.com/rom111419/ngx-form-generator"
-  },
-  "scripts": {
-    "prepare": "husky install"
   }
 }
