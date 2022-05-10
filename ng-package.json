@@ -1,6 +1,6 @@
 {
   "$schema": "../../node_modules/ng-packagr/ng-package.schema.json",
-  "dest": "../../dist/ngx-form-generator",
+  "dest": "../../node_modules/@rom111419/ngx-form-generator",
   "lib": {
     "entryFile": "src/public-api.ts"
   }
