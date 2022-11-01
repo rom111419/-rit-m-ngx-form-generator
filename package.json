@@ -3,7 +3,7 @@
   "description": "Angular Form-Generator - creates reactive form groups, form controls and form arrays from Object",
   "author": "Roman Zhukov",
   "license": "Apache-2.0 License",
-  "version": "0.0.3",
+  "version": "0.0.8",
   "engines": {
     "node": ">=16.13.0"
   },
@@ -13,8 +13,8 @@
     "ngx-form-generator__build": "ng build ngx-form-generator"
   },
   "peerDependencies": {
-    "@angular/common": "^13.1.0",
-    "@angular/core": "^13.1.0"
+    "@angular/common": "^14.2.6",
+    "@angular/core": "^14.2.6"
   },
   "dependencies": {
     "tslib": "^2.3.0"
