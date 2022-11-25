@@ -45,7 +45,7 @@ export class FormGeneratorService {
 
   private createArrayControl(fields: []): FormArray {
     const controls = this.fB.array([]);
-    fields.forEach(field => controls.push(this.createGroupOrControl(field)));
+    fields.forEach(field => controls.push(this.createGroupOrControl(field) as any));
     return controls;
   }
 
