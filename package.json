@@ -13,8 +13,8 @@
     "ngx-form-generator__build": "ng build ngx-form-generator"
   },
   "peerDependencies": {
-    "@angular/common": "^15.0.3",
-    "@angular/core": "^15.0.3"
+    "@angular/common": "^16.0.0",
+    "@angular/core": "^16.0.0"
   },
   "dependencies": {
     "tslib": "^2.3.0"
