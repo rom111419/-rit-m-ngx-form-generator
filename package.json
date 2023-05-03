@@ -3,7 +3,7 @@
   "description": "Angular Form-Generator - creates reactive form groups, form controls and form arrays from Object",
   "author": "Raman Zhukau",
   "license": "Apache-2.0 License",
-  "version": "0.0.18",
+  "version": "0.0.19",
   "engines": {
     "node": ">=16.13.0"
   },
